@@ -1,9 +1,22 @@
 # Getting Started with Create React App
 
-**WeatherApp by author: by Razman Raman, Developer**
+##  WeatherApp by author: by Razman Raman, Developer 
 @RazmanR-77
 
-Check The Current Weather with this app!
+NOTE: This is THE DEPLOYMENT BRANCH.
+
+[Alternatively, Click here for my Development branch and codes.
+ ](  #related-links    )  
+
+
+----------
+
+
+**Check The Current Weather with this app! Click here.**
+
+https://razmanr-77.github.io/weather-app1/
+
+----------
 
 **Functions and Features**
 1. **Location Input and Search Functionality**: The web app allows users to input a location (Example case, 'COUNTRYNAME') to check the weather for that specific area. There is an input field at the top with a 'Check Weather and Add+' button next to it.
@@ -20,6 +33,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshots
 ![Alt text](image.png)
+
+## Related Links 
+
+Development branch - my original codes:
+
+https://github.com/RazmanR-77/my-project12/tree/main/weather-app1
 
 ## Available Scripts
 
